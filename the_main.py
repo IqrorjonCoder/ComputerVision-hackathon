@@ -80,7 +80,7 @@ def face_recognitionn(known_face_encodings, known_face_names):
 
 
 
-                elif counter == 200:
+                elif counter == 100:
                     counter = 0
 
                 cv2.rectangle(frame, (left, top), (right, bottom), (242, 21, 21), 5)
