@@ -9,7 +9,7 @@ from aiogram.utils import executor
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '5536960507:AAF_ubxCbPy0FSswDESmNvZO9sg47lqAD04'
+API_TOKEN = 'XXXX XXXX XXXX XXXX'
 
 bot = Bot(token=API_TOKEN)
 
